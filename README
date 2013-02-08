@@ -1,1 +1,5 @@
 Based off of http://onedayitwillmake.com/blog/2011/08/creating-realtime-multiplayer-games-using-node-js/
+
+node js/DemoBox2D/server.js
+
+open DemoBox2DApp.html in any web browsers
